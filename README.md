@@ -20,4 +20,4 @@ This plugin creates to configuration settings:
 The IP address of your Hue Bridge.
 
 ### Lamp Id
-The ID of the lamp to be controlled. In the current version there is no easy way to determine this so you will have to try and test.
+The ID of the lamp to be controlled. To find the lamp ID, please refer to [HUE developers documentation](https://developers.meethue.com/develop/get-started-2/).
